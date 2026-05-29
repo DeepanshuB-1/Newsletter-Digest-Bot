@@ -1,0 +1,44 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Pytest
+.pytest_cache/
+tests/__pycache__/
+*.pytest_cache
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated output files
+digest_today.json
+emails_today.json
+*.json
+
+# Word / Office docs (internal notes)
+*.docx
+*.xlsx
+*.pptx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

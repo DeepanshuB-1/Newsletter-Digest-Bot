@@ -1,0 +1,27 @@
+# Web framework
+streamlit
+
+# Database
+psycopg2-binary
+pgvector
+
+# Google OAuth 2.0 & Gmail API
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# HTTP & parsing
+requests
+beautifulsoup4
+lxml
+
+# Auth
+bcrypt
+
+# Utilities
+python-dotenv
+numpy
+schedule
+
+# Testing
+pytest
