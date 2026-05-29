@@ -8,7 +8,7 @@ Usage:
     python scheduler.py                  # runs now, then every 5 hours
     REPEAT_HOURS=3 python scheduler.py   # custom interval
 
-To run silently in the background on Windows:
+To run silently in background on Windows:
     start /B pythonw scheduler.py
 
 To run immediately once and exit (for testing):
